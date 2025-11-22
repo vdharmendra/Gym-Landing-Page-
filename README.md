@@ -1,5 +1,5 @@
 ## View Project ##
-<a href="https://vdharmendra.github.io/">View Project on browser</a>
+<a href="https://vdharmendra.github.io/Gym-Landing-Page-">View Project on browser</a>
 
 - 
 👨‍💻 Author
